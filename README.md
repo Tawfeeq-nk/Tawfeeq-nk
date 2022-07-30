@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tawfeeq-nk
 - 👀 I’m interested in Web Programming, Front-end, Back-end.
-- 🌱 I’m currently learning CodeIgniter Framework
+- 🌱 I’m currently learning Codeigniter Framework
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Discord @Tawfeeq#4090
 
