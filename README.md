@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Programming, Front-end, Back-end.
 - 🌱 I’m currently learning Codeigniter Framework and hopefully many other frameworks
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Discord @Tawfeeq#4090
+- 📫 How to reach me ... taufiqnurk@ymail.com 
 
 <!---
 Tawfeeq-nk/Tawfeeq-nk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
